@@ -4,6 +4,9 @@
 
 이 프로젝트는 네이트 스포츠 뉴스의 랭킹 상위 3개 기사를 실시간으로 크롤링하고, Perplexity AI 모델을 통해 각 기사를 핵심 내용만 요약하여 API 형태로 제공하는 서비스입니다. 사용자는 간단한 API 요청만으로 복잡한 과정 없이 깔끔하게 정제된 뉴스 요약 데이터를 받아볼 수 있습니다.
 
+<img width="1408" height="712" alt="image" src="https://github.com/user-attachments/assets/0da3f940-dd4c-4d73-a79d-eefb876bc4a9" />
+
+
 ---
 
 ## 2. 핵심 개발 철학: 백엔드 우선 (Backend-First)
