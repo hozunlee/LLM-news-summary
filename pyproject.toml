@@ -1,0 +1,16 @@
+[project]
+name = "nate-news"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "beautifulsoup4>=4.13.4",
+    "dotenv>=0.9.9",
+    "fastapi>=0.116.1",
+    "httpx>=0.28.1",
+    "pyside6[asyncio]>=6.9.1",
+    "requests>=2.32.4",
+    "selenium>=4.34.2",
+    "uvicorn>=0.35.0",
+]
