@@ -6,6 +6,9 @@
 
 백엔드는 FastAPI를 통해 강력한 API 서버를 구축하고, 프론트엔드(클라이언트)는 PySide6를 사용하여 직관적인 GUI를 제공합니다.
 
+<img width="1408" height="712" alt="image" src="https://github.com/user-attachments/assets/0da3f940-dd4c-4d73-a79d-eefb876bc4a9" />
+
+
 ---
 
 ## 2. 핵심 개발 철학: 백엔드 우선 (Backend-First)
