@@ -10,6 +10,7 @@ dependencies = [
     "fastapi>=0.116.1",
     "httpx>=0.28.1",
     "pyside6[asyncio]>=6.9.1",
+    "qasync>=0.27.1",
     "requests>=2.32.4",
     "selenium>=4.34.2",
     "uvicorn>=0.35.0",
