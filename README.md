@@ -6,9 +6,6 @@
 
 백엔드는 FastAPI를 통해 강력한 API 서버를 구축하고, 프론트엔드(클라이언트)는 PySide6를 사용하여 직관적인 GUI를 제공합니다.
 
-<img width="1408" height="712" alt="image" src="https://github.com/user-attachments/assets/0da3f940-dd4c-4d73-a79d-eefb876bc4a9" />
-
-
 ---
 
 ## 2. 핵심 개발 철학: 백엔드 우선 (Backend-First)
@@ -154,3 +151,10 @@
 -   **데이터베이스 연동**: 요약된 뉴스 데이터를 `SQLite`나 `PostgreSQL` 같은 데이터베이스에 저장하여, 과거 데이터 조회 및 분석 기능 추가.
 -   **크롤러 확장**: 스포츠 뉴스 외에 종합, 연예 등 다른 카테고리의 뉴스도 선택적으로 크롤링할 수 있도록 기능 확장.
 -   **배포**: `Docker`를 사용하여 프로젝트를 컨테이너화하고, `PyInstaller`나 `Briefcase`를 이용해 데스크톱 앱을 실행 파일로 패키징.
+
+
+## 8. 구현 화면
+<img width="1628" height="1282" alt="image" src="https://github.com/user-attachments/assets/acf21bcd-6c93-437d-ae16-31c0b9c34774" />
+
+<img width="1408" height="712" alt="image" src="https://github.com/user-attachments/assets/0da3f940-dd4c-4d73-a79d-eefb876bc4a9" />
+
